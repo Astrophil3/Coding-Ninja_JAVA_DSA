@@ -1,0 +1,8 @@
+Short data type has a minimum value of -
+
+
+answer= -32,768.
+
+
+Solution Description
+Short is of 16 bits. Here, 1 bit is used to store the sign and the remaining 15 bits for the value.  So the smallest value a short data type can store is : - 2^15., where 2^15 is -32,768.
