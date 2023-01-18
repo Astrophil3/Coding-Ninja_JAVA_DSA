@@ -1,0 +1,6 @@
+Automatic type conversion in Java takes place when :
+
+
+ANSWER=
+
+Two type are compatible and size ot destination type is larger than source type.
