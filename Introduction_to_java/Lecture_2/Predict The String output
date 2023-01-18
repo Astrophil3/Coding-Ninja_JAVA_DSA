@@ -1,0 +1,11 @@
+What is the output of the following code if the input string is "Coding Ninjas"?
+Scanner s = new Scanner(System.in);
+String str;
+str = s.next();
+System.out.print(str);
+
+ANSWER= Coding
+
+
+Solution Description
+"s.next()" returns the next token as String. A token is part of entered line that is separated from other tokens by space, tab or newline. So when input line is - “Coding Ninjas” then s.next() returns the first token i.e. “Coding”
